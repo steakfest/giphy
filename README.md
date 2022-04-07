@@ -10,12 +10,12 @@ In this unit, you will create a Giphy App. The Giphy App will take a search term
 
 #### Planning
 
-- [ ] Complete the project planning document.
+- [x] Complete the project planning document.
 
 #### GitHub Set-Up
 
 - [x] Go to the repository
-- [ ] Fork this repository to your Github account and import to a new workspace
+- [x] Fork this repository to your Github account and import to a new workspace
 - [ ] Submit your website using the link on the Agenda
 
 #### Starter Code
